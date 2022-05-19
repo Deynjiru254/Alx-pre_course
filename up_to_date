@@ -1,2 +1,2 @@
-git commit -m "up_to_date"
-git pull
+git pull -m "up_to_date"
+
